@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @silverdawnn01
+- 👀 I’m interested in prusuing my dreams by expressing my creativity through games. 
+- 🌱 I’m currently learning code through the Odin Project.
+- 💞️ I’m looking to collaborate on nothing at the moment but hopefully very soon!
